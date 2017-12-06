@@ -2,9 +2,9 @@
 
 
 **pull a specific fork** <br>
-git remote add other_username other_gitlink
-git fetch other_username 
-git checkout -b colony AlexeyAB/master
+git remote add other_username other_gitlink <br>
+git fetch other_username  <br>
+git checkout -b colony AlexeyAB/master <br>
 
 
 
