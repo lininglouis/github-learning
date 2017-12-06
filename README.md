@@ -30,8 +30,8 @@ def func():
 \*\* should be close to the following words that needs to be bold. both from starrting to the end
 
 
-**git log**
+**git log**<br>
 check the log hisotry
 
-**git branch**
+**git branch**<br>
 check the current branch
