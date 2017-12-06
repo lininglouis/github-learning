@@ -13,7 +13,7 @@ git add .  <br>
 git commit -m 'msg'
 
 
-**add code ** <br>
+**add code** <br>
 \`\`\`python <br>
 code snippet <br>
 \`\`\`<br>
@@ -25,5 +25,5 @@ def func():
 ```
 
 
-**bold  ** <br>
-\*\* should be close to the following words that needs to be bold
+**\*\* and bold** <br>
+\*\* should be close to the following words that needs to be bold. both from starrting to the end
