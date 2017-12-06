@@ -13,9 +13,9 @@ git checkout -b colony AlexeyAB/master
 
 
 ** add code **<br>
-\\```python <br>
+\`\`\`python <br>
 code snippet <br>
-\\```<br>
+\`\`\`<br>
 
 like this <br>
 ```python
