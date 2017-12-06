@@ -25,5 +25,5 @@ def func():
 ```
 
 
-**\*\* and bold <br>
+**\*\* and bold ** <br>
 \*\* should be close to the following words that needs to be bold
