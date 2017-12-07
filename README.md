@@ -45,7 +45,7 @@ check the current branch
 git add .  (-f) <br>
 git commit -m 'xxxx'<br>
 3. add remote repo<br>
-git remote add origin https://github.com/username/xxxx.git  
+git remote add origin https://github.com/username/xxxx.git  <br>
 4. push to master<br>
 git push origin master
 
