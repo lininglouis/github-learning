@@ -44,9 +44,9 @@ check the current branch
 2. in local direction, find the directory you want to upload(whether a common folder, or a folder with existing github repo downloaded from other user)<br>
 git add .  (-f) <br>
 git commit -m 'xxxx'
-3. add remote repo
+3. add remote repo<br>
 git remote add origin https://github.com/username/xxxx.git  
-4. push to master
+4. push to master<br>
 git push origin master
 
 
