@@ -35,3 +35,19 @@ check the log hisotry
 
 **git branch**<br>
 check the current branch
+
+
+
+
+**git upload existing project**<br>
+1.in github.com, create empty repository, get gitlink: https://github.com/username/xxxx.git  <br>
+2. in local direction, find the directory you want to upload(whether a common folder, or a folder with existing github repo downloaded from other user)<br>
+git add .  (-f) <br>
+git commit -m 'xxxx'
+
+3. add remote repo
+git remote add origin https://github.com/username/xxxx.git  
+4. push to master
+git push origin master
+
+
