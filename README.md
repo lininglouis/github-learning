@@ -18,8 +18,7 @@ git commit -m 'msg'
 \`\`\`python <br>
 code snippet <br>
 \`\`\`<br>
-
-**like this** <br>
+like this<br>
 ```python
 def func():
   print 'hallo'
