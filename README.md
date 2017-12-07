@@ -43,7 +43,7 @@ check the current branch
 1.in github.com, create empty repository, get gitlink: https://github.com/username/xxxx.git  <br>
 2. in local direction, find the directory you want to upload(whether a common folder, or a folder with existing github repo downloaded from other user)<br>
 git add .  (-f) <br>
-git commit -m 'xxxx'
+git commit -m 'xxxx'<br>
 3. add remote repo<br>
 git remote add origin https://github.com/username/xxxx.git  
 4. push to master<br>
