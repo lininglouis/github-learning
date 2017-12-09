@@ -6,7 +6,7 @@
 git clone official git_repo
 git remote add other_username other_gitlink
 git fetch other_username  
-git checkout -b colony AlexeyAB/master 
+git checkout -b colony other_username  
 ```
 
 
