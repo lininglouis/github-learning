@@ -4,9 +4,9 @@
 **pull a specific fork** <br>
 ```
 git clone official git_repo
-git remote add other_username other_gitlink
-git fetch other_username  
-git checkout -b colony other_username  
+git remote add other_username other_gitlink  # add new remote with specific fork located at other_gitlink
+git fetch other_username    # fetch this new remote
+git checkout -b my_own_branch   #create a new branch
 ```
 
 
