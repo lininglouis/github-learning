@@ -2,11 +2,12 @@
 
 
 **pull a specific fork** <br>
+```
 git clone official git_repo
 git remote add other_username other_gitlink <br>
 git fetch other_username  <br>
 git checkout -b colony AlexeyAB/master <br>
-
+```
 
 
 **add new files and submit**<br>
