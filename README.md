@@ -8,7 +8,7 @@ git remote add other_username other_gitlink  # add new remote with specific fork
 git fetch other_username    # fetch this new remote
 git checkout -b my_own_branch   #create a new branch
 ```
-
+  
 
 **add new files and submit**<br>
 git add .  <br>
