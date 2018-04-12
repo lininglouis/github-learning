@@ -37,6 +37,12 @@ check the log hisotry
 check the current branch
 
 
+**git sync local repo with remote repo** <br>
+git reset --hard HEAD
+git clean -f -x -d -n
+
+
+
 
 
 **git upload existing project**<br>
