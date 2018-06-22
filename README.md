@@ -56,6 +56,9 @@ git remote add origin https://github.com/username/xxxx.git  <br>
 git push origin master
 
 
+git ls-files  
+git rm -r --cached .
+
  
 
 
